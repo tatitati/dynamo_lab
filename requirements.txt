@@ -1,0 +1,9 @@
+boto3
+
+
+pydantic-dynamo
+
+
+# to manage dynamo like sql
+pyql
+pynamodb
