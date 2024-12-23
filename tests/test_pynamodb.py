@@ -34,4 +34,4 @@ def test_pynamo():
 
 def test_can_query():
     for user in UserModel.query("John", None):
-        print(user)
+        print(user) # UserModel(email='newemail@company.org', id='John')
